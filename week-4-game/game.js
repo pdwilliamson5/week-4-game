@@ -9,10 +9,10 @@ var resetAndStart = function() {
 	$(".gems").empty();
 
 	var images =[
-	'assets/images/red.png',
-	'assets/images/blue2.png',
-	'assets/images/pink.jpg',
-	'assets/images/green.png'];
+	'assets/images/green.png',
+	'assets/images/blue.png',
+	'assets/images/yellow.png',
+	'assets/images/black.png'];
 
 // random number counter
  random_result = Math.floor(Math.random() * 19) + 111;
