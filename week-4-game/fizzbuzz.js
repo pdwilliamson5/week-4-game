@@ -1,1 +1,0 @@
-var numbers = 0 < 100;
